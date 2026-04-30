@@ -9,5 +9,5 @@
 
 ### Projects
 - Sales Analysis Dashboard (Power BI)
-- Super-Store Sales Analysis Dashboard (Tableau)
-- Excel Automation Reports
+
+
