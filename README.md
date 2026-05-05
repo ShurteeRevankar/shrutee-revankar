@@ -9,6 +9,6 @@
 - Fun fact I'm an Electronics & Telecommunication Engineer turned into a Data Enthusiast | Once worked with signals, now decoding insights from data.
 
 ### Projects
-- Ecommerce Sales Analysis Dashboard
-- Zomato Restaurants Analysis
-- Atliq Hospitality Analysis
+- Ecommerce Sales & Customer Behaviour Analysis for Revenue Growth.
+- Zomato Restaurants & Customer Preference Analysis for Market Insights.
+- Atliq Hospitality Revenue & Occupancy Analysis for Business Optimization.
