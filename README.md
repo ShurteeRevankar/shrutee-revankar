@@ -1,4 +1,4 @@
-# Hi 👋 I'm Shrutee
+# Hi 👋, I'm Shrutee
 
 ## Passionate Data Analyst | Exploring the World of Data
 
