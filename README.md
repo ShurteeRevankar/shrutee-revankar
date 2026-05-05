@@ -9,6 +9,6 @@
 - Fun fact I'm an Electronics & Telecommunication Engineer turned into a Data Enthusiast | Once worked with signals, now decoding insights from data.
 
 ### Projects
-- ecommerce Sales Analysis Dashboard
+- Ecommerce Sales Analysis Dashboard
 - Zomato Restaurants Analysis
 - Atliq Hospitality Analysis
